@@ -201,7 +201,7 @@ services:
       - DID_METHOD_NAME=quarkid:zksync
       - CONTENT_ADDRESSABLE_STORE_SERVICE_URI=http://ipfs-quarkid:5001/
       - DATABASE_NAME=zksync-testnet-v1
-      - RPC_URL=https://sepolia.era.zksync.dev
+      - RPC_URL=https://zksync-sepolia.g.alchemy.com/v2/8Q5qHcUMLuvW2FGYfyry13in-eAdJfWp
       - MONGO_DB_CONNECTION_STRING=mongodb://mongo-quarkid:27017
       - MAX_CONCURRENT_DOWNLOADS=20
       - OBSERVING_INTERVAL_IN_SECONDS=30

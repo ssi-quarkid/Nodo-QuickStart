@@ -32,7 +32,7 @@ This data ensures synchronization with the active Quarkid testnet network.
 Test network information:
 - Network name: zkSync Era Testnet
 - RPC URL: https://zksync-sepolia.g.alchemy.com/v2/8Q5qHcUMLuvW2FGYfyry13in-eAdJfWp
-- Chain ID: 280
+- Chain ID: 300
 - Currency symbol: ETH
 - Block explorer URL: https://sepolia.explorer.zksync.io/
 
